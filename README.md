@@ -21,9 +21,9 @@ If you find different URS schemes, they can be added to the regular expression a
 
 There are 3 required env variables that must be configured in Heroku to work.
 
-* ```affiliate_tag``` : The affiliate tag you want to use for the generated URL.
+* ```affliatemas0b-21``` : The affiliate tag you want to use for the generated URL.
 
-* ```search_url```: The base URL used for the link. For example "amazon.es" for the Spanish Amazon website products. The URL must be provided without `http`/`https` and without `www.`
+* ```amazon.in```: The base URL used for the link. For example "amazon.es" for the Spanish Amazon website products. The URL must be provided without `http`/`https` and without `www.`
 
 * ```TOKEN```: The API Token of the telegram bot. This can be obtained after creating a bot with botFather.
 
