@@ -25,7 +25,7 @@ There are 3 required env variables that must be configured in Heroku to work.
 
 * ```amazon.in```: The base URL used for the link. For example "amazon.es" for the Spanish Amazon website products. The URL must be provided without `http`/`https` and without `www.`
 
-* ```TOKEN```: The API Token of the telegram bot. This can be obtained after creating a bot with botFather.
+* ```5842147190:AAH7RuG7vbg8yvS6POhXN6SNfg5m4fGeQcA```: The API Token of the telegram bot. This can be obtained after creating a bot with botFather.
 
 There is an optional variable that can be set with the chat_id of the developer with the bot to receive messages when an URL is not filtered or the product code is not found.
 
